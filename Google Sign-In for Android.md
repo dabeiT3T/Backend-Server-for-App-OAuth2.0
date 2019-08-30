@@ -1,8 +1,8 @@
-# [Google Sign-In for Android][google0auth]
+# Google Sign-In for Android
 
 ## 总结：
 
- 官方文档是这么说：
+ [官方文档][google0auth]是这么说：
 
 0. `Android` 工程配置见文档。
 
