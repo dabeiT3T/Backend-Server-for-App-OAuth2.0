@@ -1,6 +1,6 @@
 # Google Sign-In for Android
 
-## 总结：
+## 总结
 
  [官方文档][googleoauth]是这么说：
 
