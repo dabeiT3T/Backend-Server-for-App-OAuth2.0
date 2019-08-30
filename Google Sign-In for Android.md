@@ -2,7 +2,7 @@
 
 ## 总结：
 
- [官方文档][google0auth]是这么说：
+ [官方文档][googleoauth]是这么说：
 
 0. `Android` 工程配置见文档。
 
